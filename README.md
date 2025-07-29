@@ -1,7 +1,7 @@
 # Air Pollution and Urban Growth: A Global Income-Based Analysis (2019)
 
 This project explores how urban population growth correlates with air pollution levels (PM2.5) across countries grouped by income level. The analysis aims to highlight whether economic development influences how urbanization impacts environmental health — particularly exposure to fine particulate air pollution.
-This project was written in a [Jupyter Notebook](analysis.ipynb), which includes data cleaning, merging, visualization, and interpretation of results.
+This project was written in a ![Jupyter Notebook](Analysis.ipynb), which includes data cleaning, merging, visualization, and interpretation of results.
 
 
 ---
@@ -55,7 +55,7 @@ The final chart contains **four scatter plots** — one for each income group �
 
 | File | Description |
 |------|-------------|
-| `analysis.ipynb` | Jupyter Notebook with full code |
+| `Analysis.ipynb` | Jupyter Notebook with full code |
 | `urban_pop_vs_air_pollution1.jpg` | Final multi-plot visualization |
 | `report.md` | 1–2 paragraph explanation aligned with assignment rubric |
 | `README.md` | This project overview |
