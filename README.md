@@ -36,6 +36,7 @@ The final chart contains **four scatter plots** â€” one for each income group â€
 - Shared axis scaling ensures fair comparison
 - Annotated bottom-left corner displays correlation strength (`r` value)
 
+![Plot](urban_pop_vs_air_pollution1.jpg)
 
 ---
 
